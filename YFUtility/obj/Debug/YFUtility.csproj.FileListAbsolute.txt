@@ -1,0 +1,5 @@
+C:\xiaobai\YFUtility\bin\Debug\YFUtility.dll
+C:\xiaobai\YFUtility\bin\Debug\YFUtility.pdb
+C:\xiaobai\YFUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\xiaobai\YFUtility\obj\Debug\YFUtility.dll
+C:\xiaobai\YFUtility\obj\Debug\YFUtility.pdb
