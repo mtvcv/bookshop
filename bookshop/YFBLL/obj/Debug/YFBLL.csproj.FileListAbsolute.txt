@@ -1,0 +1,11 @@
+C:\xiaobai\YFBLL\bin\Debug\YFBLL.dll
+C:\xiaobai\YFBLL\bin\Debug\YFBLL.pdb
+C:\xiaobai\YFBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\xiaobai\YFBLL\obj\Debug\YFBLL.dll
+C:\xiaobai\YFBLL\obj\Debug\YFBLL.pdb
+C:\xiaobai\YFBLL\bin\Debug\YFDAL.dll
+C:\xiaobai\YFBLL\bin\Debug\YFModel.dll
+C:\xiaobai\YFBLL\bin\Debug\YFUtility.dll
+C:\xiaobai\YFBLL\bin\Debug\YFDAL.pdb
+C:\xiaobai\YFBLL\bin\Debug\YFModel.pdb
+C:\xiaobai\YFBLL\bin\Debug\YFUtility.pdb
